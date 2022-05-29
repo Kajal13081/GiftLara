@@ -14,7 +14,7 @@ Demonstrate through your app the different kinds of algorithms that a web-stream
 ## About The App
 
 This is a gift recommendation android application which works on certain algorithms.
-Various algorithms which have been used while building this app are Searching, Sorting and Greedy Algorithm. 
+Various algorithms which have been used while building this app are Searching, Sorting and Greedy Algorithms. 
 - Users can filter and choose gifts depending on their mood, color, age, events and occasions, price etc.
 - Then gifts will be recommended on the basis of the filters applied. After that users can sort these gifts according to their name, price, rating in ascending or descending order.
 - Also users can search for a specific gift (without using any filter) and then they will be recommended other related gifts.
