@@ -1,1 +1,3 @@
-# GiftLara: Microsoft Engage'22 Project
+# Microsoft Engage'22 Project
+
+## GiftLara: Gift Recommendation Android App
