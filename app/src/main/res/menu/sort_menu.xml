@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--  add menu items to show in popup-->
+    <item android:id="@+id/menu_asc"
+        android:title="A->Z" />
+
+    <item android:id="@+id/menu_desc"
+        android:title="Z->A" />
+
+    <item android:id="@+id/menu_asc_price"
+        android:title="Low to High Price" />
+
+    <item android:id="@+id/menu_desc_price"
+        android:title="High to Low Price" />
+
+    <item android:id="@+id/menu_asc_rating"
+        android:title="Low to High Rating" />
+
+    <item android:id="@+id/menu_desc_rating"
+        android:title="High to Low Rating" />
+
+</menu>
