@@ -20,6 +20,11 @@ Various algorithms which have been used while building this app are Searching, S
 - Also users can search for a specific gift (without using any filter) and then they will be recommended other related gifts.
 - They can greedily sort the gift combos and packs according to their price and quantity.
 
+## Tech Stack
+
+- Java
+- XML 
+
 ## Getting Started
 
 This is an example of how you may give instructions on setting up your project locally. To get a local copy up and running follow these simple example steps.
